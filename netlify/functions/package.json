@@ -1,8 +1,15 @@
 {
-  "name": "chatbot-support",
+  "name": "chatbot-support-v2",
   "version": "1.0.0",
   "description": "AI Customer Support Chatbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "dependencies": {
     "@google/generative-ai": "^0.1.3"
-  }
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
 }
