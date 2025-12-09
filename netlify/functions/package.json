@@ -1,0 +1,8 @@
+{
+  "name": "chatbot-support",
+  "version": "1.0.0",
+  "description": "AI Customer Support Chatbot",
+  "dependencies": {
+    "@google/generative-ai": "^0.1.3"
+  }
+}
